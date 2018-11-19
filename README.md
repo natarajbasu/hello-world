@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+just a repository
 
 This line was added in the new branch to merge with master for checking git functionality.
 
